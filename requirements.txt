@@ -1,0 +1,6 @@
+Flask==2.1.1
+gunicorn==19.9.0
+line-bot-sdk==1.8.0
+Jinja2==3.1.1
+importlib-metadata==4.11.3
+zipp==3.8.0
